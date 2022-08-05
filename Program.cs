@@ -9,7 +9,11 @@ if (number > 0)
     Console.WriteLine("Число возведенное в квадрат: " + number);
     //Console.WriteLine(number);
 }
-else 
+if (number < 0)
 {
     Console.WriteLine("Число отрицательное");
+}
+else
+{
+    Console.WriteLine("Введен ноль");
 }
