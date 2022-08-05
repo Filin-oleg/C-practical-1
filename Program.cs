@@ -6,7 +6,8 @@ int number = int.Parse(Console.ReadLine()); // number = Convert.ToInt32(Console.
 if (number > 0)
 {
     number *= number;
-    Console.WriteLine(number);
+    Console.WriteLine("Число возведенное в квадрат: " + number);
+    //Console.WriteLine(number);
 }
 else 
 {
