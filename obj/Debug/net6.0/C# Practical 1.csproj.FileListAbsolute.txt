@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.AssemblyInfo.cs
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/C# Practical 1/bin/Debug/net6.0/C# Practical 1
+/Users/macintosh/Desktop/C# Practical 1/bin/Debug/net6.0/C# Practical 1.deps.json
+/Users/macintosh/Desktop/C# Practical 1/bin/Debug/net6.0/C# Practical 1.runtimeconfig.json
+/Users/macintosh/Desktop/C# Practical 1/bin/Debug/net6.0/C# Practical 1.dll
+/Users/macintosh/Desktop/C# Practical 1/bin/Debug/net6.0/C# Practical 1.pdb
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.dll
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/refint/C# Practical 1.dll
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.pdb
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/C# Practical 1.genruntimeconfig.cache
+/Users/macintosh/Desktop/C# Practical 1/obj/Debug/net6.0/ref/C# Practical 1.dll
