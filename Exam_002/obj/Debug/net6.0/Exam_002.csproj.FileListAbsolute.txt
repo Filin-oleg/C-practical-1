@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.AssemblyInfo.cs
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/bin/Debug/net6.0/Exam_002
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/bin/Debug/net6.0/Exam_002.deps.json
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/bin/Debug/net6.0/Exam_002.runtimeconfig.json
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/bin/Debug/net6.0/Exam_002.dll
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/bin/Debug/net6.0/Exam_002.pdb
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.dll
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/refint/Exam_002.dll
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.pdb
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/Exam_002.genruntimeconfig.cache
+/Users/macintosh/Desktop/C# Practical 1/Exam_002/obj/Debug/net6.0/ref/Exam_002.dll
